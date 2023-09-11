@@ -4,5 +4,5 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-This is a repository for the materials 
+This is a repository for the materials in the class
 
